@@ -2,7 +2,7 @@
  *  UCF COP3330 Summer 2021 Assignment 7 Solution
  *  Copyright 2021 Julian Espinoza
  *
- *  Exercise 7 - Mad Lib
+ *  Exercise 7 - Area of Rectangular Room
  *  Create a program that calculates the area of a room. Prompt the user for the length and
  *  width of the room in feet. Then display the area in both square feet and square meters.
  *
